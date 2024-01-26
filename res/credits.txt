@@ -1,0 +1,7 @@
+The original Tikal.EXE game is made by Brian the Magic Minion. <https://gamejolt.com/@BrianTheMagicMinion>
+
+The executables are made by lime360 <https://lime360.neocities.org> and licensed under GNU General Public License 3.0. <https://github.com/lime360/tikalexe-build/blob/main/LICENSE>
+
+Huge thanks to the swf-projector library (licensed under Mozilla Public License 2.0) for making this possible! <https://github.com/shockpkg/swf-projector>
+
+Assets and graphics belong to Sega and Sonic Team. The original game is made with Scratch 2.0 using SB2 to SWF converter. <https://asentientbot.github.io/converter>

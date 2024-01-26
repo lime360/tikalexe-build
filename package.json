@@ -1,0 +1,20 @@
+{
+  "name": "tikalexe-build",
+  "version": "1.0.0",
+  "description": "Tikal.EXE build scripts.",
+  "type": "module",
+  "scripts": {
+    "build": "node windows.js && node linux.js && cd build && tar -cf tikal.tar.gz tikal",
+    "build-windows": "node windows.js",
+    "build-linux": "node linux.js && cd build && tar -cf tikal.tar.gz tikal"
+  },
+  "keywords": [
+    "flash",
+    "flash-projector"
+  ],
+  "author": "lime360",
+  "license": "MIT",
+  "dependencies": {
+    "@shockpkg/swf-projector": "^6.0.6"
+  }
+}
